@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔸 Eduardo Verone, 24 years old.<br>💻 Working with front-end.<br>🌱 I’m currently learning how to develop websites.<br>🔸 Focusing on HTML, CSS, JS and another techs.<br>📨 Contact me on e-mail: mreduardoverone@gmail.com<br>
+🔸 Eduardo Verone, 24 years old.<br>💻 Working with front-end.<br>🌱 I’m currently learning how to develop websites.<br>🔸 Focusing on JavaScript, React, Bootstrap and another techs.<br>📨 Contact me on e-mail: mreduardoverone@gmail.com<br>
 
 
 ## 🌐 Socials:
